@@ -1,8 +1,8 @@
 Hi, my name is Ignatij, I'm 17yo🖐
 
-I’m learning 🐍 and planning on learning how to create neural networks with tensorflow 💻
+At the moment, I am not yet sure in which area to grow, or should I even get into theoretical programming
 
-Currently I know only golang.
+Currently I know only golang, C++ and a little bit of python.
 
 <!---
 Ignatij3/Ignatij3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
