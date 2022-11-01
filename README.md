@@ -1,4 +1,4 @@
-Hi, my name is Ignatij, I'm 17yo🖐
+Hi, my name is Ignatij, I'm 18 years old.
 
 At the moment, I am not yet sure in which area to grow, or should I even get into theoretical programming
 
