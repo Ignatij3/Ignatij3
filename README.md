@@ -1,6 +1,6 @@
 Hi, my name is Ignatij, I'm 18 years old.
 
-At the moment, I am not yet sure in which area to grow, or should I even get into theoretical programming
+At the moment, I'd like to try working with programming microcontrollers.
 
 Currently I know only golang, C++ and a little bit of python.
 
