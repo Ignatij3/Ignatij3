@@ -1,5 +1,3 @@
-go, c++, python, VSCode, json, Git, GitHub, Linux (Ubuntu), CMake, Qml, js, Docker, human behaviour and interaction
-
 To date, I have experience with following tools/languages:
 
 | Technology      | Comment | Level | First experience |
