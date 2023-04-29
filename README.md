@@ -9,9 +9,9 @@ To date, I have experience with following tools/languages:
 | Python          | Python is overall easy to learn and use language, but it has one major disatvantage which sometimes makes me consider using other languages, if I have a choice - complete lack of typing. It is obvious that lack of typing will bring up a lot of runtime errors that should be prevented, but those preventions lenghten code and decrease readability. Also, it sometimes is hardly readable due to it's lack of braces or any other reasonable definition of scope of visibility | Out of all languages, python is probably second best known to me. It's syntax is plain and simple, I am familiar with some of it's unique features/oddities | Around 2020/2021 |
 | SQL             | I have quite little knowledge of databases, types of them and other related stuff, so in that sense I would require a lot of studying | I have a very basic knowledge of SQL, since I have spent around month learning/using it and then stopped. Nevertheless, I have at least a general idea about what it is | December 2019 |
 | Git             | Out of all version control systems, Git is by far most popular which makes it reasonable to learn it early | I'm fairly familiar with git - I've been using it continiously since the named date and now I feel pretty comfortable with it. Though, I need a lot more experience using it to be able to use it freely | February 2021 |
-| CMake           |  |  |  |
+| CMake           | Originally, I was introduced to CMake when dad recommended that I use it, instead of QMake (an alternative for Qt framework). Even though I used it mainly in context of compiling programs using Qt, I still had plenty experience with it. | When I used to programs that use Qt framework, I used CMake to make. Thanks to that - I'm quite familiar with it, although, not a very proficient user. Also, since I hadn't used it in a while, I will need some time to get a grip of it and to start using it again | December 2021 |
 | Linux           |  |  |  |
-| QT              |  |  |  |
+| Qt              |  |  |  |
 | HTML            |  |  |  |
 | CSS             |  |  |  |
 | Docker          |  |  |  |
