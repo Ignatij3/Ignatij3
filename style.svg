@@ -25,7 +25,7 @@
 
             <div class="container">
                 <div class="image">
-                    <img src="assets/go-icon.svg">
+                    <use href="assets/go-icon.svg"/>
                     </img>
                 </div>
                 <div class="text">
