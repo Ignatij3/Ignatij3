@@ -25,7 +25,8 @@
 
             <div class="container">
                 <div class="image">
-                    <img src="https://skillicons.dev/icons?i=go" class="go-icon"></img>
+                    <img src="https://skillicons.dev/icons?i=go" class="go-icon">
+                    </img>
                 </div>
                 <div class="text">
                     <h1>Go</h1>
