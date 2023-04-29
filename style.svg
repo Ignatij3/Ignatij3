@@ -11,7 +11,7 @@
                     position: relative;
                 }
 
-                .go-icon {
+                img {
                     max-width: 100%;
                     max-height: 100%;
                     vertical-align: bottom;
@@ -25,7 +25,7 @@
 
             <div class="container">
                 <div class="image">
-                    <img src="https://skillicons.dev/icons?i=go" class="go-icon">
+                    <img src="https://skillicons.dev/icons?i=go">
                     </img>
                 </div>
                 <div class="text">
