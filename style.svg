@@ -19,7 +19,7 @@
 
                 .text {
                     position: relative;
-                    bottom: 3px;
+                    bottom: -6px;
                 }
             </style>
 
