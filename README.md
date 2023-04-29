@@ -14,3 +14,16 @@ To date, I have experience with following tools/languages:
 | Qt             | Qt is an enormous framework which is used to create desktop programs, I personally used it once to create a program with moving colliding squares, for fun, so I have just a tiny bit of experience with it | For such a framework, I've worked to little and in a narrow spectrum of it's abilities, but at least I'm a bit familiar with it's graphical interface development module | December 2021 |
 | HTML           | HTML is the very first programming-related concept I learned, but since I'm not really keen on front-end development, I quickly abandoned learning HTML in favor of learning programming languages | Even though I know html for a long time, I barely use it, so my skills currently are at a beginner level | January 2017 |
 | CSS            | I started learning CSS after some introduction to HTML basics, but due to reasons explained in section about HTML, I hadn't progressed in a long time | I know some basic aspects of CSS, but since I hadn't been using it for a long time, not really wanting to do front-end development, I barely remember anything about it | June 2017 |
+
+---
+
+<div class="container">
+    <div class="image">
+        <img src="https://skillicons.dev/icons?i=go">
+    </div>
+    <div class="text">
+        <h1>Go</h1>
+    </div>
+</div>
+
+---
