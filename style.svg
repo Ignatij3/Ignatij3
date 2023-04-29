@@ -25,11 +25,7 @@
 
             <div class="container">
                 <div class="image">
-                    <g>
-                    <svg viewBox="0 0 512 512">
-                        <image width="48" height="48" href="assets/go-icon.svg"/>
-                    </svg>
-                    </g>
+                    <img src="assets/go-icon.svg" style="width: 48px;" alt="can't-load-svg" />
                 </div>
                 <div class="text">
                     <h1>Go</h1>
