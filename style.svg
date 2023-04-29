@@ -25,7 +25,7 @@
 
             <div class="container">
                 <div class="image">
-                    <img src="assets/go-icon.svg" style="width: 48px;" alt="can't-load-svg" />
+                    <img src="https://raw.githubusercontent.com/Ignatij3/Ignatij3/Ignatij3-exp-ver/assets/go-icon.svg" style="width: 48px;" alt="can't-load-svg" />
                 </div>
                 <div class="text">
                     <h1>Go</h1>
