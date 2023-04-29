@@ -17,13 +17,8 @@ To date, I have experience with following tools/languages:
 
 ---
 
-<div class="container">
-    <div class="image">
-        <img src="https://skillicons.dev/icons?i=go">
-    </div>
-    <div class="text">
-        <h1>Go</h1>
-    </div>
+<div>
+    <img src="https://github.com/Ignatij3/Ignatij3/blob/Ignatij3-exp-ver/style.svg" alt="couldn't-load-svg-file">
 </div>
 
 ---
