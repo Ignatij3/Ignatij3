@@ -18,7 +18,7 @@ To date, I have experience with following tools/languages:
 ---
 
 <div>
-    <img src="https://github.com/Ignatij3/Ignatij3/blob/Ignatij3-exp-ver/style.svg" width="400" height="400" alt="couldn't-load-svg-file">
+    <img src="style.svg" width="400" height="400" alt="couldn't-load-svg-file">
 </div>
 
 ---
