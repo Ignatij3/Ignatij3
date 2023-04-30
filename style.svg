@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 500 65" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 500 70" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -30,7 +30,7 @@
                     fill: slategray;
                     color: aliceblue;
                     stroke: slategray;
-                    font-size: 4px;
+                    font-size: 6px;
                     stroke-width: .4px;
                 }
             </style>
@@ -49,5 +49,5 @@
         </div>
     </foreignObject>
     <line x1="0" y1="57" x2="100%" y2="57" stroke="lightgray" />
-    <text class="desc" y="62" x="65%">First experience</text>
+    <text class="desc" y="64" x="65%">First experience</text>
 </svg>
