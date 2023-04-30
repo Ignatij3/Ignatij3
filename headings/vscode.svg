@@ -1,0 +1,54 @@
+<svg fill="none" viewBox="0 0 500 70" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container {
+                    display: flex;
+                    flex-wrap: nowrap;
+                    flex-direction: row;
+                    width: 100%;
+                    column-gap: 4px;
+                    height: 48px;
+                }
+
+                .text-holder {
+                    margin-top: 20px;
+                }
+
+                .date {
+                    margin-left: auto;
+                }
+
+                .main-text {
+                    font-family: "Century Gothic", Arial;
+                    font-size: 28px;
+                    color: aliceblue;
+                    margin-top: auto;
+                }
+
+                .desc {
+                    font-family: "Century Gothic", Arial;
+                    fill: slategray;
+                    color: aliceblue;
+                    stroke: slategray;
+                    font-size: 8px;
+                    stroke-width: .2px;
+                }
+            </style>
+
+            <div class="container">
+                <div class="image">
+                    <img src="data:image/svg+xml;base64,CiAgPHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiPgogICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMCkiPgogICAgICAgICAgPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiMyNDI5MzgiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiMyNDg5Q0EiIGQ9Ik0zMy43MTU4IDEwMC4yMDhDMzMuNzE1OCAxMDAuMjA4IDI4Ljk4MTQgOTYuNzk1IDM0LjY2MjcgOTIuMjM4MUw0Ny44OTk0IDgwLjQwMkM0Ny44OTk0IDgwLjQwMiA1MS42ODY5IDc2LjQxNzIgNTUuNjkxNSA3OS44ODkxTDE3Ny44NCAxNzIuMzY4VjIxNi43MTRDMTc3Ljg0IDIxNi43MTQgMTc3Ljc4MSAyMjMuNjc4IDE2OC44NDQgMjIyLjkwOEwzMy43MTU4IDEwMC4yMDhaIi8+PHBhdGggZmlsbD0iIzEwNzBCMyIgZD0iTTY1LjE5OTcgMTI4Ljc5MkwzMy43MTU3IDE1Ny40MTVDMzMuNzE1NyAxNTcuNDE1IDMwLjQ4MDUgMTU5LjgyMiAzMy43MTU3IDE2NC4xMjNMNDguMzMzMyAxNzcuNDE4QzQ4LjMzMzMgMTc3LjQxOCA1MS44MDUyIDE4MS4xNDcgNTYuOTM0MSAxNzYuOTA1TDkwLjMxMTkgMTUxLjU5Nkw2NS4xOTk3IDEyOC43OTJaIi8+PHBhdGggZmlsbD0iIzA4NzdCOSIgZD0iTTEyMC40NzQgMTI5LjAyOUwxNzguMjE1IDg0LjkzOTFMMTc3Ljg0IDQwLjgzQzE3Ny44NCA0MC44MyAxNzUuMzc0IDMxLjIwMzMgMTY3LjE0OCAzNi4yMTM5TDkwLjMxMiAxMDYuMTQ1TDEyMC40NzQgMTI5LjAyOVoiLz48cGF0aCBmaWxsPSIjM0M5OUQ0IiBkPSJNMTY4Ljg0NCAyMjIuOTY4QzE3Mi4xOTggMjI2LjQgMTc2LjI2MiAyMjUuMjc2IDE3Ni4yNjIgMjI1LjI3NkwyMjEuMjU5IDIwMy4xMDNDMjI3LjAxOSAxOTkuMTc3IDIyNi4yMSAxOTQuMzA1IDIyNi4yMSAxOTQuMzA1VjYxLjg5ODJDMjI2LjIxIDU2LjA3ODggMjIwLjI1MiA1NC4wNjY3IDIyMC4yNTIgNTQuMDY2N0wxODEuMjUzIDM1LjI2N0MxNzIuNzMxIDMwIDE2Ny4xNDggMzYuMjEzOSAxNjcuMTQ4IDM2LjIxMzlDMTY3LjE0OCAzNi4yMTM5IDE3NC4zMjggMzEuMDQ1NSAxNzcuODQgNDAuODNWMjE1LjkwNUMxNzcuODQgMjE3LjEwOSAxNzcuNTgzIDIxOC4yOTIgMTc3LjA3MSAyMTkuMzU4QzE3Ni4wNDUgMjIxLjQyOSAxNzMuODE2IDIyMy4zNjIgMTY4LjQ3IDIyMi41NTNMMTY4Ljg0NCAyMjIuOTY4WiIvPjwvc3ZnPgogICAgICAgIDwvZz4KICAgICAgICAKICA8L3N2Zz4KICA=" />
+                </div>
+                <div class="text-holder">
+                    <h1 class="main-text">VSCode</h1>
+                </div>
+                <div class="date text-holder">
+                    <text class="main-text">October 2020</text>
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+    <line x1="0" y1="57" x2="100%" y2="57" stroke="lightgray" />
+    <text class="desc" y="65" x="88%">First experience</text>
+</svg>
