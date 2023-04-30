@@ -4,12 +4,12 @@
 
 <div><img src="headings/go.svg" style="height: 150px" alt="can't-load-svg" /></div>
 
-<p align="justify">This is my first and most favourite programming language - when I started programming, I learned basics using Golang as main language. The choice of language was not on me - but on Progmeistars - programming school which I was attending. And I think the choice is a good one. Using golang when I started programming had some positive sides to it:
+<p align="justify">This is my first and most favourite programming language - when I started programming, I learned basics using Golang as main language. The choice of language was not on me - but on Progmeistars - programming school which I was attending. And I think the choice is a good one. Using golang when I started programming had some positive sides to it:</p>
 
 - Oppresive typing prevented a lot of frustrating mistakes in the early days of programming;
 - Made me familiar with C-like syntax, which, in return, makes it easier to learn new programming languages with similar syntax;
 
-And personally, I love it - it has overly strict typing (which prevents a lot of misunderstanding and silly mistakes) and C-like syntax, which, by itself, is quite intuitive and easy-to-read. I can definitely say that I am very advanced in Golang. I am familiar with a lot of nuances of the language, can write complex programs without assistance from linters/hints and also have used it's builtin benchmarking and unit-testing features.</p>
+<p align="justify">And personally, I love it - it has overly strict typing (which prevents a lot of misunderstanding and silly mistakes) and C-like syntax, which, by itself, is quite intuitive and easy-to-read. I can definitely say that I am very advanced in Golang. I am familiar with a lot of nuances of the language, can write complex programs without assistance from linters/hints and also have used it's builtin benchmarking and unit-testing features.</p>
 
 <div><img src="headings/cpp.svg" style="height: 150px" alt="can't-load-svg" /></div>
 
