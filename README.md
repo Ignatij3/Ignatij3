@@ -1,7 +1,7 @@
-# To date, I have experience with following tools/languages:
+# To date, I have experience with following tools/languages
 
 <div><img src="style.svg" style="height: 150px" alt="can't-load-svg" /></div>
-This is my first and most favourite programming language. I love it because it has overly strict typing (which prevents a lot of misunderstanding) and C-like syntax, which, by itself, is quite intuitive and easy-to-read. I can definitely say that I am very advanced in Golang. I am familiar with a lot of nuances of the language, can write complex programs without assistance from linters/hints and also have used it's builtin benchmarking and unit-testing features.
+<p>This is my first and most favourite programming language. I love it because it has overly strict typing (which prevents a lot of misunderstanding) and C-like syntax, which, by itself, is quite intuitive and easy-to-read. I can definitely say that I am very advanced in Golang. I am familiar with a lot of nuances of the language, can write complex programs without assistance from linters/hints and also have used it's builtin benchmarking and unit-testing features.</p>
 
 ---
 

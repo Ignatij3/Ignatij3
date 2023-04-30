@@ -34,6 +34,10 @@
                     font-size: 8px;
                     stroke-width: .2px;
                 }
+
+                p {
+                    text-align: justify;
+                }
             </style>
 
             <div class="container">
