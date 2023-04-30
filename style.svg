@@ -30,8 +30,8 @@
                     fill: slategray;
                     color: aliceblue;
                     stroke: slategray;
-                    font-size: 6px;
-                    stroke-width: .4px;
+                    font-size: 8px;
+                    stroke-width: .2px;
                 }
             </style>
 
@@ -49,5 +49,5 @@
         </div>
     </foreignObject>
     <line x1="0" y1="57" x2="100%" y2="57" stroke="lightgray" />
-    <text class="desc" y="64" x="65%">First experience</text>
+    <text class="desc" y="65" x="65%">First experience</text>
 </svg>
