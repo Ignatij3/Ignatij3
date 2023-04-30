@@ -48,6 +48,6 @@
             </div>
         </div>
     </foreignObject>
-    <line x1="0" y1="54" x2="100%" y2="54" stroke="lightgray" />
-    <text class="desc" y="60" x="65%">First experience</text>
+    <line x1="0" y1="57" x2="100%" y2="57" stroke="lightgray" />
+    <text class="desc" y="62" x="65%">First experience</text>
 </svg>

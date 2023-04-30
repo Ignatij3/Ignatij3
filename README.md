@@ -17,8 +17,8 @@ To date, I have experience with following tools/languages:
 
 ---
 
-<div style="width: 100%;">
-    <img src="style.svg" style="width: 100%;" alt="can't-load-svg"></img>
+<div>
+    <img src="style.svg" style="height: 200px" alt="can't-load-svg"></img>
 </div>
 
 ---
