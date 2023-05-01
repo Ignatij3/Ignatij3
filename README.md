@@ -1,5 +1,10 @@
 # Hi, I'm Ignatijs Krasovskis👋
 
+<p align="justify">I'm from Latvia, born in 2004. I have been learning programming since around the age of 13-15. Even though I didn't do much programming in 2022/2023, I nevertheless have formed a solid foundation to build upon. Now let's take a look at some of my related skills:</p>
+
+- I am very good at mathematics. At least - I am able to understand a logic behind it's concepts which makes it easier to apply them when needed.  Personally, I'm interested in backend development or microcontroller programming or something very similar;
+- For as long as I know myself I have been using my computer extensively. And now I am at an advanced level
+
 ## 🍪 To date, I have experience with following tools/languages
 
 <div><img src="headings/go.svg" style="height: 150px" alt="can't-load-svg" /></div>
@@ -37,7 +42,7 @@
 
 <div><img src="headings/linux.svg" style="height: 150px" alt="can't-load-svg" /></div>
 
-<p align="justify">Since my dad is a programmer as well, I had Linux installed on my PC for as long as I can remember having PC. And even though I have been using Linux (Ubuntu, specifically) since my early childhood days, I've been using it more as a general user, not making a big use of it's command-line tools, apart from irregularly occuring need to either fix something or some other cases. As of now, I'm at a beginner level and plan to advance at work in learning deeply Linux-based operating systems.</p>
+<p align="justify">Since my dad is a programmer as well, I had Linux installed on my PC for as long as I can remember having PC. And even though I have been using Linux (Ubuntu, specifically) since my early childhood Vdays, I've been using it more as a general user, not making a big use of it's command-line tools, apart from irregularly occuring need to either fix something or some other cases. As of now, I'm at a beginner level and plan to advance at work in learning deeply Linux-based operating systems.</p>
 
 <div><img src="headings/qt.svg" style="height: 150px" alt="can't-load-svg" /></div>
 
