@@ -3,7 +3,9 @@
 <p align="justify">I'm from Latvia, born in 2004. I have been learning programming since around the age of 13-15. Even though I didn't do much programming in 2022/2023, I nevertheless have formed a solid foundation to build upon. Now let's take a look at some of my related skills:</p>
 
 - I am very good at mathematics. At least - I am able to understand a logic behind it's concepts which makes it easier to apply them when needed.  Personally, I'm interested in backend development or microcontroller programming or something very similar;
-- For as long as I know myself I have been using my computer extensively. And now I am at an advanced level
+- For as long as I know myself I have been using my computer extensively, mainly on Windows XP and Windows 10. Thanks to that, I'm now very familiar with lots of Windows' features which are used when working or gaming;
+- I know how neural networks are built at the core and how they learn, therefore I have a general idea about them and can build some of the simplest ones;
+- Communicability and equanimity. Generally, I prefer to not be just as much agitated as other people about lots of things, because there is no sense in being angry or overly upset about majority of situations;
 
 ## 🍪 To date, I have experience with following tools/languages
 
