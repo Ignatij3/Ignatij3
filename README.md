@@ -2,42 +2,15 @@
 
 <p align="justify">I'm from Latvia, born in 2004. I have been learning programming since around the age of 13-15. Even though I didn't do much programming in past year or two, I nevertheless have formed a solid foundation to build upon. Apart from skills listed later, I have some other skills related to programming as a profession:</p>
 
-<style>
-    .overview {
-        display: flex;
-        flex-direction: row;
-    }
-
-    .skill-list {
-        flex-basis: 60%;
-    }
-
-    .stats {
-        display: flex;
-        flex-direction: column;
-        flex-basis: 35%;
-        margin-left: auto;
-        margin-right: 0;
-    }
-
-    ul {
-        list-style-type: "–  ";
-    }
-</style>
-
-<div class="overview">
-    <div class="skill-list">
-        <ul align="justify">
-            <li> I am very good at mathematics. At least - I am able to understand a logic behind it's concepts which makes it easier to apply them when needed;</li>
-            <li> For as long as I know myself I have been using my computer extensively, mainly on Windows XP and Windows 10. Thanks to that, I'm now very familiar with lots of Windows' features which are used when working or gaming;</li>
-            <li> I know how neural networks are built at the core and how they learn, therefore I have a general idea about them and can build some of the simplest ones;</li>
-            <li> Communicability and equanimity. Generally, I prefer to not be just as much agitated as other people about lots of things, because there is no sense in being angry or overly upset about majority of situations.</li>
-        </ul>
-    </div>
-    <div class="stats">
-        <img width="450" src="https://github-readme-stats.vercel.app/api?username=ignatij3&&count_private=true&show_icons=true&theme=onedark" />
-        <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignatij3&exclude_repo=Courses&theme=onedark&layout=compact&langs_count=6" />
-    </div>
+<img align="right" style="width: 550px" src="https://github-readme-stats.vercel.app/api?username=ignatij3&count_private=true&show_icons=true&theme=onedark" alt="can't-load-svg" />
+<div>
+    <ul>
+        <li>
+<p align="justify">I am very good at mathematics. At least - I am able to understand a logic behind it's concepts which makes it easier to apply them when needed;</p></li>
+        <li><p align="justify">For as long as I know myself I have been using my computer extensively, mainly on Windows XP and Windows 10. Thanks to that, I'm now very familiar with lots of Windows' features which are used when working or gaming;</p></li>
+        <li><p align="justify">I know how neural networks are built at the core and how they learn, therefore I have a general idea about them and can build some of the simplest ones;</p></li>
+        <li><p align="justify">Communicability and equanimity. Generally, I prefer to not be just as much agitated as other people about lots of things, because there is no sense in being angry or overly upset about majority of situations.</p></li>
+    </ul>
 </div>
 
 ## 🍪 To date, I have experience with following tools/languages
