@@ -26,6 +26,12 @@
                     margin-top: auto;
                 }
 
+                @media (prefers-color-scheme: light) {
+                    .main-text {
+                        color: darkblue;
+                    }
+                }
+
                 .desc {
                     font-family: "Century Gothic", Arial;
                     fill: slategray;
