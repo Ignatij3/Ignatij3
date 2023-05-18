@@ -1,4 +1,4 @@
-;# Hi, I'm Ignatijs Krasovskis👋
+# Hi, I'm Ignatijs Krasovskis👋
 
 <p align="justify">I'm from Latvia, born in 2004. I have been learning programming since around the age of 13-15. Even though I didn't do much programming in past year or two, I nevertheless have formed a solid foundation to build upon. Apart from skills listed later, I have some other skills related to programming as a profession:</p>
 
