@@ -1,4 +1,4 @@
-# Hi, I'm Ignatijs Krasovskis👋
+;# Hi, I'm Ignatijs Krasovskis👋
 
 <p align="justify">I'm from Latvia, born in 2004. I have been learning programming since around the age of 13-15. Even though I didn't do much programming in past year or two, I nevertheless have formed a solid foundation to build upon. Apart from skills listed later, I have some other skills related to programming as a profession:</p>
 
@@ -7,9 +7,15 @@
     <ul>
         <li>
 <p align="justify">I am very good at mathematics. At least - I am able to understand a logic behind it's concepts which makes it easier to apply them when needed;</p></li>
-        <li><p align="justify">For as long as I know myself I have been using my computer extensively, mainly on Windows XP and Windows 10. Thanks to that, I'm now very familiar with lots of Windows' features which are used when working or gaming;</p></li>
+        <li><p align="justify">For as long as I know myself I have been using my computer extensively, mainly on Windows XP and Windows 10. Thanks to that, I'm now very familiar with Windows;</p></li>
         <li><p align="justify">I know how neural networks are built at the core and how they learn, therefore I have a general idea about them and can build some of the simplest ones;</p></li>
-        <li><p align="justify">Communicability and equanimity. Generally, I prefer to not be just as much agitated as other people about lots of things, because there is no sense in being angry or overly upset about majority of situations.</p></li>
+        <li><p align="justify">Communicability and basic leadership qualities. I am very open to communication and getting to know new people. Moreover, I had TWICE successfully led a team of classmates to achieve following goals:</p>
+            <ol>
+                <li><p align="justify">Prank students at my school on 1st of April by various means;</p></li>
+                <li><p align="justify">Substitute «thank you» speeches for teacher we were giving on our last bell with those that are not «default» and plain (which our teacher wanted us to say), but rather relatable and heartful;</p></li>
+            </ol>
+            <p align="justify">Due to that, I have acquired basic knowledge of how to assemble and lead a team and I gladly would like to improve them during my professional career;</p>
+        </li>
     </ul>
 </div>
 
@@ -17,7 +23,7 @@
 
 <div><img style="height: 150px;" src="headings/go.svg" alt="can't-load-svg" /></div>
 
-<p align="justify">This is my first and most favourite programming language - when I started programming, I learned basics using Golang . The choice of language was not on me - but on Progmeistars - programming school which I was attending. And I think this choice is a good one. Using golang when I started programming had some positive sides to it:</p>
+<p align="justify">This is my first and most favourite programming language - when I started programming, I learned basics using Golang. The choice of language was not on me - but on Progmeistars - programming school which I was attending. And I think this choice is a good one. Using golang when I started programming had some positive sides to it:</p>
 
 - Oppresive typing prevented a lot of frustrating mistakes in my early days of programming;
 - Made me familiar with C-like syntax, which, in return, makes it easier to learn new programming languages with similar syntax;
