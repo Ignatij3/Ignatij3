@@ -36,7 +36,7 @@
 
 <div><img style="height: 150px;" src="headings/vscode.svg" alt="can't-load-svg" /></div>
 
-<p align="justify">I can say I am an experienced user of VSCode. I have been using not only the editor, but also have spent some time configuring VSCode specific files which are placed in `.vscode` folder. Also, in the period of writing programs in C++ I have been using those features quite extensively which left a solid ground for further learning how to use it proficiently. VSCode is the only IDE I can work with, but personally it is not of concern to me, since it is remarkably flexible, has a nice look and is one of the most widely used IDEs, which means it is actively supported and improved.</p>
+<p align="justify">I can say I am a fairly experienced user of VSCode. I have been using not only the editor, but also have spent some time configuring VSCode specific files which are placed in `.vscode` folder. Also, in the period of writing programs in C++ I have been using those features quite extensively which left a solid ground for further learning how to use it proficiently. VSCode is the only IDE I can work with, but personally it is not of concern to me, since it is remarkably flexible, has a nice look and is one of the most widely used IDEs, which means it is actively supported and improved.</p>
 
 <div><img style="height: 150px;" src="headings/python.svg" alt="can't-load-svg" /></div>
 
