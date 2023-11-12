@@ -9,13 +9,6 @@
 <p align="justify">I am very good at mathematics. At least - I am able to understand a logic behind it's concepts which makes it easier to apply them when needed;</p></li>
         <li><p align="justify">For as long as I know myself I have been using my computer extensively, mainly on Windows XP and Windows 10. Thanks to that, I'm now very familiar with Windows;</p></li>
         <li><p align="justify">I know how neural networks are built at the core and how they learn, therefore I have a general idea about them and can build some of the simplest ones;</p></li>
-        <li><p align="justify">Communicability and basic leadership qualities. I am very open to communication and getting to know new people. Moreover, I had TWICE successfully led a team of classmates to achieve following goals:</p>
-            <ol>
-                <li><p align="justify">Prank students at my school on 1st of April by various means;</p></li>
-                <li><p align="justify">Substitute «thank you» speeches for teacher we were giving on our last bell with those that are not «default» and plain (which our teacher wanted us to say), but rather relatable and heartful;</p></li>
-            </ol>
-            <p align="justify">Due to that, I have acquired basic knowledge of how to assemble and lead a team and I gladly would like to improve them during my professional career;</p>
-        </li>
     </ul>
 </div>
 
