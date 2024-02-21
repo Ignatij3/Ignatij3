@@ -1,14 +1,14 @@
 # Hi, I'm Ignatijs Krasovskis👋
 
-<p align="justify">I'm from Latvia, born in 2004. I have been learning programming since around the age of 13-15. Even though I didn't do much programming in past year or two, I nevertheless have formed a solid foundation to build upon. Apart from skills listed later, I have some other skills related to programming as a profession:</p>
+<p align="justify">I'm from Latvia, born in 2004, currently live in the Netherlands. I had been learning programming since the age of 13. Throughout my life I have formed a solid foundation consisting of both hard and soft skills. Some of the non-specific technical hard skills:</p>
 
 <img align="right" style="width: 550px" src="https://github-readme-stats.vercel.app/api?username=ignatij3&count_private=true&show_icons=true&theme=onedark" alt="can't-load-svg" />
 <div>
     <ul>
         <li>
-<p align="justify">I am very good at mathematics. At least - I am able to understand a logic behind it's concepts which makes it easier to apply them when needed;</p></li>
-        <li><p align="justify">For as long as I know myself I have been using my computer extensively, mainly on Windows XP and Windows 10. Thanks to that, I'm now very familiar with Windows;</p></li>
-        <li><p align="justify">I know how neural networks are built at the core and how they learn, therefore I have a general idea about them and can build some of the simplest ones;</p></li>
+<p align="justify">Proficient in mathematics, mastered high school math and a bit of calculus and neural network theory. Have developed a logical and consequent reasoning, ready to take on new technical concepts when needed;</p></li>
+        <li><p align="justify">Have been using personal computer since the dawn of my life, mainly on Windows XP, Windows 10. During the last years, I have been using Linux - Ubuntu at the beginning, and then Arch Linux;</p></li>
+        <li><p align="justify">For the entire duration of my learning, I had been solving problems, one after another - this has really helped me develop my problem-solving skills and my stubbornness - when I simply stick to the problem until I resolve it or find another way to tacke it;</p></li>
     </ul>
 </div>
 
