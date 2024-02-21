@@ -22,13 +22,13 @@
                 .main-text {
                     font-family: "Century Gothic", Arial;
                     font-size: 28px;
-                    color: aliceblue;
+                    color: #869F38;
                     margin-top: auto;
                 }
 
                 @media (prefers-color-scheme: light) {
                     .main-text {
-                        color: darkblue;
+                        color: #000000;
                     }
                 }
 
