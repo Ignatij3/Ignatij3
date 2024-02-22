@@ -45,7 +45,7 @@
                             color: #F3F3F3;
 
                             font-family: 'Alliance No.1', sans-serif;
-                            font-size: 14px;
+                            font-size: 8px;
                             word-wrap: break-word;
                             line-height: 1.7;
                             
