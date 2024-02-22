@@ -18,6 +18,8 @@
                     </div>
 
                     <style>
+                        @import url('https://fonts.cdnfonts.com/css/alliance-no1');
+
                         .base-image {
                             height: 100%;
                             position: absolute;
@@ -26,12 +28,15 @@
                         }
 
                         body {
-                            color: #333;
-                            font: 15px Helvetica, arial, freesans, clean, sans-serif;
+                            color: #F3F3F3;
+                            font-family: 'Alliance No.1', sans-serif;
+                            <!-- font: 15px Helvetica, arial, freesans, clean, sans-serif; -->
                             word-wrap: break-word;
                             line-height: 1.7;
+
                             padding: 0 20px 20px 20px;
                             width: 722px;
+                            
                             -webkit-font-smoothing: antialiased;
                         }
 
