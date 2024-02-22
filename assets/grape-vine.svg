@@ -35,7 +35,7 @@
 
                         .base-image {
                             height: 100%;
-                            left: 55%;
+                            left: 60%;
                             position: absolute;
                             z-index: 2;
                             opacity: 0.4;
