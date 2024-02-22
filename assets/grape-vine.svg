@@ -34,7 +34,7 @@
                         @import url('https://fonts.cdnfonts.com/css/alliance-no1');
 
                         .base-image {
-                            height: 20%;
+                            height: 100%;
                             right: 0%;
                             position: absolute;
                             z-index: 2;
