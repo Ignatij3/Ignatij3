@@ -48,8 +48,6 @@
                             font-size: 15px;
                             word-wrap: break-word;
                             line-height: 1.7;
-
-                            padding: 0 20px 20px 20px;
                             
                             -webkit-font-smoothing: antialiased;
                         }
@@ -61,10 +59,6 @@
 
                         a:hover {
                             text-decoration: underline;
-                        }
-
-                        p, blockquote, ul, ol, dl, table, pre {
-                            margin: 15px 0;
                         }
 
                         ul, ol {
