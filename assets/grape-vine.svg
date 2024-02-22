@@ -1,6 +1,14 @@
 <svg fill="none" viewBox="0 0 722 500" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @media (prefers-color-scheme: light) {
+                    .body, p {
+                        color: #000000;
+                    }
+                }
+            </style>
+            
             <html lang="en">
                 <body>
                     <p align="justify">I'm from Latvia, born in 2004, currently live in the Netherlands. I had been learning programming since the age of 13. Throughout my life I have formed a solid foundation consisting of both hard and soft skills. Some of the non-specific technical hard skills:</p>
@@ -40,10 +48,6 @@
                             .body, p {
                                 color: #000000;
                             }
-                        }
-
-                        html[data-color-mode="light"] body, p {
-                            color: #000000;
                         }
 
                         a {
