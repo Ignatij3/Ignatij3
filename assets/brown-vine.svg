@@ -1,0 +1,17 @@
+<svg fill="none" viewBox="0 0 100% 100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <image class="base-image" x="0" y="0" width="100%" height="100%" xlink:href="./brown-vine.png" />
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .base-image {
+                    position: absolute;
+                    left: 0%;
+                    height: 100%;
+                    z-index: 1;
+                    opacity: 0.3;
+                    transform: scaleY(-1);
+                }
+            </style>
+        </div>
+    </foreignObject>
+</svg>
