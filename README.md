@@ -1,17 +1,8 @@
-<img style="position: absolute;" src="./assets/grape-vine.svg" alt="can't-load-vine" />
+<!-- <img align="right" style="width: 550px;" src="https://github-readme-stats.vercel.app/api?username=ignatij3&count_private=true&show_icons=true&theme=onedark" alt="can't-load-svg" /> -->
 
 # Hi, I'm Ignatijs Krasovskis👋
 
-<p align="justify">I'm from Latvia, born in 2004, currently live in the Netherlands. I had been learning programming since the age of 13. Throughout my life I have formed a solid foundation consisting of both hard and soft skills. Some of the non-specific technical hard skills:</p>
-
-<img align="right" style="width: 550px;" src="https://github-readme-stats.vercel.app/api?username=ignatij3&count_private=true&show_icons=true&theme=onedark" alt="can't-load-svg" />
-<div>
-    <ul>
-        <li><p align="justify">Proficient in mathematics, mastered high school math and a bit of calculus and neural network theory. Have developed a logical and consequent reasoning, ready to take on new technical concepts when needed;</p></li>
-        <li><p align="justify">Have been using personal computer since the dawn of my life, mainly on Windows XP, Windows 10. During the last years, I have been using Linux - Ubuntu at the beginning, and then Arch Linux;</p></li>
-        <li><p align="justify">For the entire duration of my learning, I had been solving problems, one after another - this has really helped me develop my problem-solving skills and my stubbornness - when I simply stick to the problem until I resolve it or find another way to tacke it;</p></li>
-    </ul>
-</div>
+<img style="" position="absolute" src="./assets/grape-vine.svg" alt="can't-load-vine" />
 
 ## ⚙️ Languages I have experience with
 
@@ -65,4 +56,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=gmail&labelColor=1e2124)](mailto:ignatijs.krasovskis@gmail.com)
 [![Stack Overflow Badge](https://img.shields.io/badge/-Stack_Overflow-f48024?style=flat-square&logo=stackoverflow&labelColor=1e2124)](https://stackoverflow.com/users/17637451/ignatij)
 
-<img style="" src="./assets/bushes.svg" alt="can't-load-bush" />
+<img style="" width="800" height="900" src="./assets/bushes.svg" alt="can't-load-bush" />
