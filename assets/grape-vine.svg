@@ -5,122 +5,125 @@
 
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <p align="justify">I'm from Latvia, born in 2004, currently live in the Netherlands. I had been learning programming since the age of 13. Throughout my life I have formed a solid foundation consisting of both hard and soft skills. Some of the non-specific technical hard skills:</p>
+            <html lang="en">
+                <body>
+                    <p align="justify">I'm from Latvia, born in 2004, currently live in the Netherlands. I had been learning programming since the age of 13. Throughout my life I have formed a solid foundation consisting of both hard and soft skills. Some of the non-specific technical hard skills:</p>
 
-            <div>
-                <ul>
-                    <li><p align="justify">Proficient in mathematics, mastered high school math and a bit of calculus and neural network theory. Have developed a logical and consequent reasoning, ready to take on new technical concepts when needed;</p></li>
-                    <li><p align="justify">Have been using personal computer since the dawn of my life, mainly on Windows XP, Windows 10. During the last years, I have been using Linux - Ubuntu at the beginning, and then Arch Linux;</p></li>
-                    <li><p align="justify">For the entire duration of my learning, I had been solving problems, one after another - this has really helped me develop my problem-solving skills and my stubbornness - when I simply stick to the problem until I resolve it or find another way to tacke it;</p></li>
-                </ul>
-            </div>
+                    <div>
+                        <ul>
+                            <li><p align="justify">Proficient in mathematics, mastered high school math and a bit of calculus and neural network theory. Have developed a logical and consequent reasoning, ready to take on new technical concepts when needed;</p></li>
+                            <li><p align="justify">Have been using personal computer since the dawn of my life, mainly on Windows XP, Windows 10. During the last years, I have been using Linux - Ubuntu at the beginning, and then Arch Linux;</p></li>
+                            <li><p align="justify">For the entire duration of my learning, I had been solving problems, one after another - this has really helped me develop my problem-solving skills and my stubbornness - when I simply stick to the problem until I resolve it or find another way to tacke it;</p></li>
+                        </ul>
+                    </div>
 
-            <style>
-                .base-image {
-                    height: 100%;
-                    position: absolute;
-                    z-index: 1;
-                    opacity: 0.5;
-                }
+                    <style>
+                        .base-image {
+                            height: 100%;
+                            position: absolute;
+                            z-index: 1;
+                            opacity: 0.5;
+                        }
 
-                body {
-                    background-color: #FFF;
-                    color: #333;
-                    font: 15px Helvetica, arial, freesans, clean, sans-serif;
-                    word-wrap: break-word;
-                    line-height: 1.7;
-                    padding: 0 20px 20px 20px;
-                    width: 722px;
-                    -webkit-font-smoothing: antialiased;
-                }
+                        body {
+                            color: #333;
+                            font: 15px Helvetica, arial, freesans, clean, sans-serif;
+                            word-wrap: break-word;
+                            line-height: 1.7;
+                            padding: 0 20px 20px 20px;
+                            width: 722px;
+                            -webkit-font-smoothing: antialiased;
+                        }
 
-                a {
-                    color: #4183c4;
-                    text-decoration: none;
-                }
+                        a {
+                            color: #4183c4;
+                            text-decoration: none;
+                        }
 
-                a:hover {
-                    text-decoration: underline;
-                }
+                        a:hover {
+                            text-decoration: underline;
+                        }
 
-                p, blockquote, ul, ol, dl, table, pre {
-                    margin: 15px 0;
+                        p, blockquote, ul, ol, dl, table, pre {
+                            margin: 15px 0;
 
-                    color: #333;
-                    font: 15px Helvetica, arial, freesans, clean, sans-serif;
-                    word-wrap: break-word;
-                    line-height: 1.7;
-                    padding: 0 20px 20px 20px;
-                    width: 722px;
-                    -webkit-font-smoothing: antialiased;
-                }
+                            <!-- color: #333;
+                            font: 15px Helvetica, arial, freesans, clean, sans-serif;
+                            word-wrap: break-word;
+                            line-height: 1.7;
+                            padding: 0 20px 20px 20px;
+                            width: 722px;
+                            -webkit-font-smoothing: antialiased; -->
+                        }
 
-                ul, ol {
-                    padding-left: 30px;
-                }
+                        ul, ol {
+                            padding-left: 30px;
+                        }
 
-                h1 {
-                    border-bottom: 1px solid #ddd;
-                    color: #000;
-                    font-size: 2.5em;
-                }
+                        h1 {
+                            border-bottom: 1px solid #ddd;
+                            color: #000;
+                            font-size: 2.5em;
+                        }
 
-                h2 {
-                    border-bottom: 1px solid #eee;
-                    color: #000;
-                    font-size: 2.0em;
-                }
+                        h2 {
+                            border-bottom: 1px solid #eee;
+                            color: #000;
+                            font-size: 2.0em;
+                        }
 
-                h3 {
-                    font-size: 1.5em;
-                }
+                        h3 {
+                            font-size: 1.5em;
+                        }
 
-                h4 {
-                    font-size: 1.2em;
-                }
+                        h4 {
+                            font-size: 1.2em;
+                        }
 
-                h5 {
-                    font-size: 1.0em;
-                }
+                        h5 {
+                            font-size: 1.0em;
+                        }
 
-                h6 {
-                    color: #777;
-                    font-size: 1.0em;
-                }
+                        h6 {
+                            color: #777;
+                            font-size: 1.0em;
+                        }
 
-                h1, h2, h3, h4, h5, h6 {
-                    font-weight: bold;
-                    line-height: 1.7;
-                    margin: 1em 0 15px 0;
-                }
+                        h1, h2, h3, h4, h5, h6 {
+                            font-weight: bold;
+                            line-height: 1.7;
+                            margin: 1em 0 15px 0;
+                        }
 
-                h1 + p, h2 + p, h3 + p {
-                    margin-top: 10px;
-                }
-                    
-                img {
-                    max-width: 100%;
-                }
+                        h1 + p, h2 + p, h3 + p {
+                            margin-top: 10px;
+                        }
+                            
+                        img {
+                            max-width: 100%;
+                        }
 
-                code,
-                pre {
-                    background-color: #F8F8F8;
-                    border-radius: 3px;
-                    border: 1px solid #DDD;
-                    font-family: Consolas, "Liberation Mono", Courier, monospace;
-                    font-size: 12px;
-                    margin: 0 2px;
-                    padding: 0 5px;
-                    white-space: pre;
-                }
+                        code,
+                        pre {
+                            background-color: #F8F8F8;
+                            border-radius: 3px;
+                            border: 1px solid #DDD;
+                            font-family: Consolas, "Liberation Mono", Courier, monospace;
+                            font-size: 12px;
+                            margin: 0 2px;
+                            padding: 0 5px;
+                            white-space: pre;
+                        }
 
-                pre code {
-                    border: none;
-                    margin: 0;
-                    padding: 0;
-                    white-space: pre;
-                }
-            </style>
+                        pre code {
+                            border: none;
+                            margin: 0;
+                            padding: 0;
+                            white-space: pre;
+                        }
+                    </style>
+                </body>
+            </html>
         </div>
     </foreignObject>
 </svg>
