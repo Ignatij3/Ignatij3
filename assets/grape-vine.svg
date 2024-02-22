@@ -30,6 +30,7 @@
                         body {
                             color: #F3F3F3;
                             font-family: 'Alliance No.1', sans-serif;
+                            font-size: 8px;
                             <!-- font: 15px Helvetica, arial, freesans, clean, sans-serif; -->
                             word-wrap: break-word;
                             line-height: 1.7;
@@ -38,6 +39,12 @@
                             width: 722px;
                             
                             -webkit-font-smoothing: antialiased;
+                        }
+
+                        @media (prefers-color-scheme: light) {
+                            .body {
+                                color: #000000;
+                            }
                         }
 
                         a {
