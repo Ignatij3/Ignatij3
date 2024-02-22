@@ -1,8 +1,10 @@
+<img style="position: absolute; right: 0%; z-index: 1; opacity: 0.5;" src="./assets/grape-vine.png" alt="can't-load-vine" />
+
 # Hi, I'm Ignatijs Krasovskis👋
 
 <p align="justify">I'm from Latvia, born in 2004, currently live in the Netherlands. I had been learning programming since the age of 13. Throughout my life I have formed a solid foundation consisting of both hard and soft skills. Some of the non-specific technical hard skills:</p>
 
-<img align="right" style="width: 550px" src="https://github-readme-stats.vercel.app/api?username=ignatij3&count_private=true&show_icons=true&theme=onedark" alt="can't-load-svg" />
+<img align="right" style="width: 550px;" src="https://github-readme-stats.vercel.app/api?username=ignatij3&count_private=true&show_icons=true&theme=onedark" alt="can't-load-svg" />
 <div>
     <ul>
         <li><p align="justify">Proficient in mathematics, mastered high school math and a bit of calculus and neural network theory. Have developed a logical and consequent reasoning, ready to take on new technical concepts when needed;</p></li>
@@ -12,6 +14,8 @@
 </div>
 
 ## ⚙️ Languages I have experience with
+
+<img style="position: absolute; left: 0%; height: 100%; z-index: 1; opacity: 0.3; transform: scaleY(-1);" src="./assets/brown-vine.png" alt="can't-load-vine" />
 
 <img style="height: 150px;" src="headings/go.svg" alt="can't-load-svg" />
 
@@ -60,3 +64,5 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&labelColor=1e2124)](https://t.me/gorenes)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=gmail&labelColor=1e2124)](mailto:ignatijs.krasovskis@gmail.com)
 [![Stack Overflow Badge](https://img.shields.io/badge/-Stack_Overflow-f48024?style=flat-square&logo=stackoverflow&labelColor=1e2124)](https://stackoverflow.com/users/17637451/ignatij)
+
+<img style="position: absolute; bottom: -15%; right: 0%; z-index: 2;" src="./assets/bushes.png" alt="can't-load-bush" />
