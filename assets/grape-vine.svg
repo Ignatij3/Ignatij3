@@ -29,9 +29,9 @@
 
                         body {
                             color: #F3F3F3;
+
                             font-family: 'Alliance No.1', sans-serif;
-                            font-size: 8px;
-                            <!-- font: 15px Helvetica, arial, freesans, clean, sans-serif; -->
+                            font-size: 2px;
                             word-wrap: break-word;
                             line-height: 1.7;
 
@@ -46,7 +46,7 @@
                             }
                         }
 
-                        a {
+                        <!-- a {
                             color: #4183c4;
                             text-decoration: none;
                         }
@@ -123,7 +123,7 @@
                             margin: 0;
                             padding: 0;
                             white-space: pre;
-                        }
+                        } -->
                     </style>
                 </body>
             </html>
