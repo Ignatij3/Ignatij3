@@ -228,7 +228,7 @@
 
                         .base-image {
                             position: absolute;
-                            left: 0%;
+                            left: -20%;
                             height: 100%;
                             z-index: 1;
                             opacity: 0.3;
