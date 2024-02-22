@@ -1,4 +1,4 @@
-<img style="" src="./assets/grape-vine.svg" alt="can't-load-vine" />
+<img style="position: absolute;" src="./assets/grape-vine.svg" alt="can't-load-vine" />
 
 # Hi, I'm Ignatijs Krasovskis👋
 
