@@ -1,10 +1,10 @@
 # Hi, I'm Ignatijs Krasovskis👋
 
-<img style="" position="absolute" src="./assets/grape-vine.svg" alt="can't-load-vine" />
+<img width="100%" src="./assets/grape-vine.svg" alt="can't-load-vine" />
 
 ## ⚙️ Languages I have experience with
 
-<img width="100%" src="./assets/brown-vine.svg" alt="can't-load-vine" />
+<img src="./assets/brown-vine.svg" alt="can't-load-vine" />
 
 <img style="height: 150px;" src="./headings/go.svg" alt="can't-load-svg" />
 
