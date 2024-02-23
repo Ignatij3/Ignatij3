@@ -7,6 +7,10 @@
                     .body, p {
                         color: #000000;
                     }
+
+                    ul li {
+                        color: #333333;
+                    }
                 }
             </style>
         </div>
