@@ -6,6 +6,4 @@
 
 <img src="./assets/brown-vine.svg" alt="can't-load-vine" />
 
----
-
 <img src="./assets/bushes.svg" alt="can't-load-bush" />
