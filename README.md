@@ -1,16 +1,5 @@
 # Hi, I'm Ignatijs Krasovskis👋
 
-<!-- <p align="justify">I'm from Latvia, born in 2004, currently live in the Netherlands. I had been learning programming since the age of 13. Throughout my life I have formed a solid foundation consisting of both hard and soft skills. Some of the non-specific technical hard skills:</p>
-
-<img align="right" width="550px" src="https://github-readme-stats.vercel.app/api?username=ignatij3&count_private=true&show_icons=true&theme=onedark" alt="can't-load-svg" />
-<div>
-    <ul>
-        <li><p align="justify">Proficient in mathematics, mastered high school math and a bit of calculus and neural network theory. Have developed a logical and consequent reasoning, ready to take on new technical concepts when needed;</p></li>
-        <li><p align="justify">Have been using personal computer since the dawn of my life, mainly on Windows XP, Windows 10. During the last years, I have been using Linux - Ubuntu at the beginning, and then Arch Linux;</p></li>
-        <li><p align="justify">For the entire duration of my learning, I had been solving problems, one after another - this has really helped me develop my problem-solving skills and my stubbornness - when I simply stick to the problem until I resolve it or find another way to tacke it;</p></li>
-    </ul>
-</div> -->
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
